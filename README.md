@@ -1,6 +1,14 @@
-QR code genarator
-It's a QR code genarator, for genarating any kind of input convert into a QR code
+## QR Code Generator
 
-Run This code 
-npm i  for intalling all the dependencies
-node qrcode_genarate.js
+This project is a QR code generator that converts any input into a QR code.
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) installed on your system.
+
+### Installation
+
+To install all necessary dependencies, run:
+
+```bash
+npm install
