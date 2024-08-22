@@ -10,5 +10,11 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
 To install all necessary dependencies, run:
 
-```bash
 npm install
+
+### Usage
+
+To run this code :
+
+```bash
+node qrcode_genarate.js
